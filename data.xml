@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast-manue>
+    <food>
+        <name>biryani</name>
+        <price>8$</price>
+        <discription>very testy, spicy and mouth watering</discription>
+        <calories>500</calories>
+        <image>biryani.jpg</image>
+    </food>
+
+    <food>
+        <name>gola kabab</name>
+        <price>7$</price>
+        <discription>our speciality very tasty, spicy and mouth watering</discription>
+        <calories>300</calories>
+        <image>kaba.jpg</image>
+    </food>
+
+    <food>
+        <name>macroni</name>
+        <price>6$</price>
+        <discription>amazing combo of meat and vagitable in pasta</discription>
+        <calories>200</calories>
+        <image>macroni.jpg</image>
+    </food>
+
+    <food>
+        <name>cake</name>
+        <price>10$</price>
+        <discription>best quaility in aforable price</discription>
+        <calories>1100</calories>
+        <image>cake.jpg</image>
+    </food>
+
+    <food>
+        <name>ice cream</name>
+        <price>3$</price>
+        <discription>sweet and tasty ice ccream</discription>
+        <calories>900</calories>
+        <image>ice.jpg</image>
+    </food>
+
+    <food>
+        <name>burger</name>
+        <price>11$</price>
+        <discription>amazing combo of meat, cheese and vagitable in burger</discription>
+        <calories>300</calories>
+        <image>burger.jpg</image>
+    </food>
+
+    <food>
+        <name>pizza</name>
+        <price>8$</price>
+        <discription>taste of itly</discription>
+        <calories>800</calories>
+        <image>pizza.jpg</image>
+    </food>
+
+    <food>
+        <name>french fries</name>
+        <price>4$</price>
+        <discription>spicy and hot flavour of french fries</discription>
+        <calories>400</calories>
+        <image>fries.jpg</image>
+    </food>
+    <food>
+        <name>aplle pie</name>
+        <price>9$</price>
+        <discription>our award winning recipe</discription>
+        <calories>600</calories>
+        <image>pie.jpg</image>
+    </food>
+
+    <food>
+        <name>tortila wrape</name>
+        <price>5$</price>
+        <discription>amazing combo of meat and vagitable in tortila wrape</discription>
+        <calories>300</calories>
+        <image>tortila.jpg</image>
+    </food>
+</breakfast-manue>
