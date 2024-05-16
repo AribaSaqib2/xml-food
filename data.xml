@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="manu.xsl" type="text/xsl"?>
 <breakfast-manue>
     <food>
         <name>biryani</name>
@@ -13,7 +14,7 @@
         <price>7$</price>
         <discription>our speciality very tasty, spicy and mouth watering</discription>
         <calories>300</calories>
-        <image>kaba.jpg</image>
+        <image>kabab.jpg</image>
     </food>
 
     <food>
